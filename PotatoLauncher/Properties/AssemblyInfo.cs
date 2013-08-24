@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("PotatoLauncher")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("微软中国")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PotatoLauncher")]
-[assembly: AssemblyCopyright("Copyright © 微软中国 2013")]
+[assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,16 +20,16 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("5b8780b2-cdb3-4706-bd1f-e4495f9fe041")]
+[assembly: Guid("246035dd-a5c0-4e69-ae40-8c338b958f47")]
 
 // 程序集的版本信息由下面四个值组成:
 //
 //      主版本
 //      次版本 
-//      内部版本号
+//      生成号
 //      修订号
 //
-// 可以指定所有这些值，也可以使用“内部版本号”和“修订号”的默认值，
+// 可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值，
 // 方法是按如下所示使用“*”:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

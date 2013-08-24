@@ -1,10 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
-using System.IO;
 using System.Net;
-using System.Windows.Forms;
+using System.Collections.Generic;
 
 namespace PotatoLauncher
 {
@@ -28,7 +27,7 @@ namespace PotatoLauncher
             }
             catch (Exception)
             {
-                MessageBox.Show("验证失败，请确定用户名和密码输入正确！");
+                System.Windows.Forms.MessageBox.Show("验证失败，请确定用户名和密码输入正确！");
             }
             return parameter;
         }

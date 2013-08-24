@@ -1,18 +1,18 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotatoLauncher", "PotatoLauncher.csproj", "{33D245DA-D49A-45C3-BD79-981F23C114AE}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotatoLauncher", "PotatoLauncher\PotatoLauncher.csproj", "{15D70ACA-E05A-4E69-962E-A1CF0E3B57F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x86 = Debug|x86
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{33D245DA-D49A-45C3-BD79-981F23C114AE}.Debug|x86.ActiveCfg = Debug|x86
-		{33D245DA-D49A-45C3-BD79-981F23C114AE}.Debug|x86.Build.0 = Debug|x86
-		{33D245DA-D49A-45C3-BD79-981F23C114AE}.Release|x86.ActiveCfg = Release|x86
-		{33D245DA-D49A-45C3-BD79-981F23C114AE}.Release|x86.Build.0 = Release|x86
+		{15D70ACA-E05A-4E69-962E-A1CF0E3B57F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D70ACA-E05A-4E69-962E-A1CF0E3B57F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D70ACA-E05A-4E69-962E-A1CF0E3B57F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D70ACA-E05A-4E69-962E-A1CF0E3B57F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
