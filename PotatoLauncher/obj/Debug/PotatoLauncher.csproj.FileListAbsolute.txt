@@ -1,0 +1,7 @@
+E:\C#\PotatoLauncher\PotatoLauncher\obj\Debug\PotatoLauncher.csprojResolveAssemblyReference.cache
+E:\C#\PotatoLauncher\PotatoLauncher\obj\Debug\PotatoLauncher.Properties.Resources.resources
+E:\C#\PotatoLauncher\PotatoLauncher\obj\Debug\PotatoLauncher.csproj.GenerateResource.Cache
+E:\C#\PotatoLauncher\PotatoLauncher\bin\Debug\PotatoLauncher.exe
+E:\C#\PotatoLauncher\PotatoLauncher\bin\Debug\PotatoLauncher.pdb
+E:\C#\PotatoLauncher\PotatoLauncher\obj\Debug\PotatoLauncher.exe
+E:\C#\PotatoLauncher\PotatoLauncher\obj\Debug\PotatoLauncher.pdb

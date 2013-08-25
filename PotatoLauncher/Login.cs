@@ -9,7 +9,7 @@ namespace PotatoLauncher
 {
     class Login
     {
-        public static String Login(String mail, String password)
+        public static String login(String mail, String password)
         {
             string parameter = "";
             try
